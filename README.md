@@ -1,4 +1,4 @@
-# TUBES-ALGEO-IF-III-B-KeLOMPOK-9
+# TUBES-ALGEO-IF-III-B-KELOMPOK-9
 Tugas Besar Mata Kuliah Aljabar Geometri, Membuat source engine. 
 Program ini berfungsi sebagai search engine, langkah awal dari program ini adalah :
 1. Mengupload file dengan ekstensi txt, yang nanti akan tersimpan di database.
